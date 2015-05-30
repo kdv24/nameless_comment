@@ -1,0 +1,5 @@
+name = Remove User Name
+description = removes display of user field from the comment form.
+package = Epicodus Examples
+core = 7.x
+files[] = nameless_comment.module
